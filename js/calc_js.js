@@ -1,5 +1,3 @@
-
-
 const currentDisplay = document.querySelector('.current-display');
 const previewDisplay = document.querySelector('.preview-display');
 const buttons = document.querySelectorAll('button');
